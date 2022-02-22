@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "electronics",
+      "freshness": "Brand New",
+      "price": 200000,
+      "comment": "done",
+      "date": "2022-02-22T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "samsung",
+      "category": "electronics",
+      "freshness": "Seond Hand",
+      "price": 10000,
+      "comment": "selled",
+      "date": "2022-02-20T18:30:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
